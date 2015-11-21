@@ -9,7 +9,7 @@ Install in Discourse 1.0
 cd /var/discourse
 ./launcher ssh app
 cd /var/www/discourse
-rake plugin:install repo='https://github.com/mrloop/strava_onebox.git'
+rake plugin:install repo='https://github.com/jpvienneau/strava_onebox.git'
 exit
 ./launcher restart app
 ./launcher ssh app
