@@ -2,6 +2,7 @@
 # about: Strava Onebox for embedding strava rides
 # version: 0.1
 # authors: Ewan McDougall
+# forked and modified by Jeff Vienneau
 
 Onebox = Onebox
 
